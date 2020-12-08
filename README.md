@@ -28,16 +28,14 @@ After your investigation, you will provide a summary of your findings to the cas
 Your first task is to set up directories to prepare for your investigation.
   1.  Begin by making a single directory titled Lucky_Duck_Investigations.
 
+  2.  In this directory, create a directory for this specific investigation titled Roulette_Loss_Investigation.
 
-In this directory, create a directory for this specific investigation titled Roulette_Loss_Investigation.
-
-
-In Roulette_Loss_Investigation, create the following directories:
+  3.  In Roulette_Loss_Investigation, create the following directories:
 
 
-Player_Analysis to investigate the casino player.
-Dealer_Analysis to investigate the dealers.
-Player_Dealer_Correlation to summarize your findings of the collusion.
+    * Player_Analysis to investigate the casino player.
+    * Dealer_Analysis to investigate the dealers.
+    * Player_Dealer_Correlation to summarize your findings of the collusion.
 Create empty files called Notes_<Directory Name> under each subdirectory to store investigation notes.
 
 
