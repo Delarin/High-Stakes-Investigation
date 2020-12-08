@@ -33,10 +33,11 @@ Your first task is to set up directories to prepare for your investigation.
   3.  In Roulette_Loss_Investigation, create the following directories:
 
 
-    * Player_Analysis to investigate the casino player.
-    * Dealer_Analysis to investigate the dealers.
-    * Player_Dealer_Correlation to summarize your findings of the collusion.
-Create empty files called Notes_<Directory Name> under each subdirectory to store investigation notes.
+    . Player_Analysis to investigate the casino player.
+    . Dealer_Analysis to investigate the dealers.
+    . Player_Dealer_Correlation to summarize your findings of the collusion.
+
+  4.  Create empty files called Notes_<Directory Name> under each subdirectory to store investigation notes.
 
 
 For example: Notes_Player_Analysis
