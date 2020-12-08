@@ -23,3 +23,22 @@ Note: The instructions ask you to set up the files using a wget command, but the
 # Instructions
 Use your command-line skills to uncover the identities of the rogue casino player and dealer colluding to scam Lucky Duck out of thousands of dollars.
 After your investigation, you will provide a summary of your findings to the casino.
+
+## Step 1: Investigation Preparation
+Your first task is to set up directories to prepare for your investigation.
+  1.  Begin by making a single directory titled Lucky_Duck_Investigations.
+
+
+In this directory, create a directory for this specific investigation titled Roulette_Loss_Investigation.
+
+
+In Roulette_Loss_Investigation, create the following directories:
+
+
+Player_Analysis to investigate the casino player.
+Dealer_Analysis to investigate the dealers.
+Player_Dealer_Correlation to summarize your findings of the collusion.
+Create empty files called Notes_<Directory Name> under each subdirectory to store investigation notes.
+
+
+For example: Notes_Player_Analysis
