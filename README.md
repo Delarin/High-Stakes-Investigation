@@ -96,13 +96,13 @@ Complete the player analysis.
 4. Preview the file Roulette_Losses and analyze the data.
 
 
-  . Record in the Notes_Player_Analysis file:
+  * Record in the Notes_Player_Analysis file:
 
 
-    . The times the losses occurred on each day.  
-    . If there is a certain player that was playing during each of those times.
-    . The total count of times this player was playing.
-      . Hint: Use the wc command to find this value.
+    * The times the losses occurred on each day.  
+    * If there is a certain player that was playing during each of those times.
+    * The total count of times this player was playing.
+      * Hint: Use the wc command to find this value.
       
 Complete the dealer analysis.
 
@@ -112,15 +112,15 @@ Complete the dealer analysis.
 2.  This file contains the dealer schedules for the various Lucky Duck casino games: Blackjack, Roulette, and Texas Hold 'Em.
 
 
-    . Preview the schedule to view the format and to understand how the data is separated.
+    * Preview the schedule to view the format and to understand how the data is separated.
     
 3.  Using your findings from the player analysis, create a separate script to look at each day and time that you determined losses occurred. Use awk, pipes, and grep to isolate out the following four fields:
 
 
-  . Time
-  . a.m./p.m.
-  . First name of roulette dealer
-  . Last name of roulette dealer
+  * Time
+  * a.m./p.m.
+  * First name of roulette dealer
+  * Last name of roulette dealer
   
 4.  For example, if a loss occurred on March 10 at 2 p.m., you would write one script to find the roulette dealer who was working at that specific day and time.
 
@@ -133,13 +133,13 @@ Complete the dealer analysis.
 6.  Preview your file Dealers_working_during_losses and analyze the data.
 
 
-  . Record in the Notes_Dealer_Analysis file:
+  * Record in the Notes_Dealer_Analysis file:
 
 
-    . The primary dealer working at the times where losses occurred.
+    * The primary dealer working at the times where losses occurred.
 
 
-    . How many times the dealer worked when major losses occurred.
+    * How many times the dealer worked when major losses occurred.
 
 
 7.  Complete the player/employee correlation.
@@ -164,8 +164,8 @@ Complete the following tasks:
 
 
     i. Design the shell script to accept the following two arguments:
-         One for the date (four digits)
-         One for the time
+         * One for the date (four digits)
+         * One for the time
 
 2.  Note: The argument should be able to accept a.m. or p.m.
 
