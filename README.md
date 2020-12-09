@@ -247,6 +247,7 @@ Complete the following tasks:
 
 2.  Note: The argument should be able to accept a.m. or p.m.
 
+![script for roulette dealer finder by time](Player_Dealer_Correlation/Player_Dealer_Correlation/roulette_dealer_finder_by_time.sh)
 
 3.  Test your script on the schedules to confirm it outputs the correct dealer at the time specified.
 
