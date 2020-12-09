@@ -179,6 +179,8 @@ Complete the dealer analysis.
 
 5.  Run all of the scripts and append those results to a file called Dealers_working_during_losses.
 
+`./march_10_11PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
 
 6.  Preview your file Dealers_working_during_losses and analyze the data.
 
