@@ -58,7 +58,8 @@ For example: Notes_Player_Analysis
 ## Step 2: Gathering Evidence
 Your next task is to move evidence from the specific days that Lucky Duck experienced heavy losses at the roulette tables.
   1.  Navigate to the directory where you created the Lucky_Duck_Investigations directory and run the following command to set up the evidence files:
-
+  
+  `cd ..`
 
     i.  wget "https://tinyurl.com/3-HW-setup-evidence" && chmod +x ./3-HW-setup-evidence && ./3-HW-setup-evidence
 
@@ -86,9 +87,11 @@ Complete the player analysis.
 
 1.  Navigate to the Player_Analysis directory.
 
+  `cd Player_Analysis`
 
 2.  Use grep to isolate all of the losses that occurred on March 10, 12, and 15.
 
+ 
 
 3.  Place those results in a file called Roulette_Losses.
 
