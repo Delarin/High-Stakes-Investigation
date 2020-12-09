@@ -104,7 +104,7 @@ Complete the player analysis.
     * If there is a certain player that was playing during each of those times.
     * The total count of times this player was playing.
       * Hint: Use the wc command to find this value.
-      
+   
 ![Payer Analysis](Player_Dealer_Correlation/Player_Dealer_Correlation/Notes_Player_Analysis)
   
 Complete the dealer analysis.
@@ -130,6 +130,8 @@ Complete the dealer analysis.
   * a.m./p.m.
   * First name of roulette dealer
   * Last name of roulette dealer
+  
+  ![script to determine losses](Player_Dealer_Correlation/Player_Dealer_Correlation/)
   
 4.  For example, if a loss occurred on March 10 at 2 p.m., you would write one script to find the roulette dealer who was working at that specific day and time.
 
