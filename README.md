@@ -135,6 +135,8 @@ Complete the dealer analysis.
   
 4.  For example, if a loss occurred on March 10 at 2 p.m., you would write one script to find the roulette dealer who was working at that specific day and time.
 
+![script to determine roulette dealer on march-10:11pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_10_11PM_Roulette_Dealer.sh)
+
 
 #### Hint: You will have many scripts, but only a small change is required for each script.
 
