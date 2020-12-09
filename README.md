@@ -242,10 +242,9 @@ Complete the following tasks:
 
   ### Hint: You will be using a script similar to the one you created for the dealer analysis step, but you will not output the results into a file.
 
-
-    i. Design the shell script to accept the following two arguments:
-         * One for the date (four digits)
-         * One for the time
+   * Design the shell script to accept the following two arguments:
+    * One for the date (four digits)
+    * One for the time
 
 2.  Note: The argument should be able to accept a.m. or p.m.
 
