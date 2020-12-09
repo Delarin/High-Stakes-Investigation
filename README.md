@@ -263,4 +263,4 @@ Complete the following tasks:
   * Casino game being played
 Hint: The argument does not need to name the specific casino game.
 
-
+![script for roulette dealer finder by time and game](Player_Dealer_Correlation/Player_Dealer_Correlation/roulette_dealer_finder_by_time_and_game.sh)
