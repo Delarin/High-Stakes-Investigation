@@ -104,7 +104,7 @@ Complete the player analysis.
     * The total count of times this player was playing.
       * Hint: Use the wc command to find this value.
       
-![Payer Analysis](./Player_Dealer_Correlation/Player_Dealer_Correlation/Notes_Player_Analysis)
+![Payer Analysis](Player_Dealer_Correlation/Player_Dealer_Correlation/Notes_Player_Analysis)
   
 Complete the dealer analysis.
 
