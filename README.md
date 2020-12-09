@@ -131,7 +131,7 @@ Complete the dealer analysis.
   * First name of roulette dealer
   * Last name of roulette dealer
   
-  ![script to determine losses](Player_Dealer_Correlation/Player_Dealer_Correlation/)
+  ![script to determine losses](./Player_Dealer_Correlation/Player_Dealer_Correlation/days_timestamp_losses.sh)
   
 4.  For example, if a loss occurred on March 10 at 2 p.m., you would write one script to find the roulette dealer who was working at that specific day and time.
 
