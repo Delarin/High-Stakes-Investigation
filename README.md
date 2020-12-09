@@ -28,18 +28,24 @@ After your investigation, you will provide a summary of your findings to the cas
 Your first task is to set up directories to prepare for your investigation.
   1.  Begin by making a single directory titled Lucky_Duck_Investigations.
   
-  `mkdir Lucky_Duck_Investigation`
+  `mkdir Lucky_Duck_Investigations`
 
   2.  In this directory, create a directory for this specific investigation titled Roulette_Loss_Investigation.
+  
+  `cd Lucky_Duck_Investigations; mkdir Roulette_Loss_Investigation`
 
   3.  In Roulette_Loss_Investigation, create the following directories:
-
-
-    . Player_Analysis to investigate the casino player.
-    . Dealer_Analysis to investigate the dealers.
-    . Player_Dealer_Correlation to summarize your findings of the collusion.
+    i.  Player_Analysis to investigate the casino player.
+    ii. Dealer_Analysis to investigate the dealers.
+    iii.Player_Dealer_Correlation to summarize your findings of the collusion.
+    
+    `cd Roulette_Loss_Investigation; mkdir Player_Analysis; mkdir Dealer_Analysis; mkdir Player_Dealer_Correlation`
 
   4.  Create empty files called Notes_<Directory Name> under each subdirectory to store investigation notes.
+  
+   `cd Player_Analysis; touch Notes_Player_Analysis`
+   `cd ../Dealer_Analysis; touch Notes_Dealer_Analysis`
+   `cd ../Player_Dealer_Correlation; touch Notes_Player_Dealer_Correlation`
 
 
 For example: Notes_Player_Analysis
