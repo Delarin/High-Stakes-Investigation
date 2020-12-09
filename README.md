@@ -143,6 +143,33 @@ Complete the dealer analysis.
 
 ![script to determine roulette dealer on march-10:8am](Player_Dealer_Correlation/Player_Dealer_Correlation/march_10_8AM_Roulette_Dealer.sh)
 
+![script to determine roulette dealer on march-10:8pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_10_8PM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-12:11pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_12_11PM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-12:2pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_12_2PM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-12:5am](Player_Dealer_Correlation/Player_Dealer_Correlation/march_12_5AM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-12:8am](Player_Dealer_Correlation/Player_Dealer_Correlation/march_12_8AM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-12:8pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_12_8PM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-15:2pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_15_2PM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-15:5am](Player_Dealer_Correlation/Player_Dealer_Correlation/march_15_5AM_Roulette_Dealer.sh)
+
+![script to determine roulette dealer on march-15:8am](Player_Dealer_Correlation/Player_Dealer_Correlation/march_15_8AM_Roulette_Dealer.sh)
+
+
+
+
+
+
+
+
+
+
 
 #### Hint: You will have many scripts, but only a small change is required for each script.
 
