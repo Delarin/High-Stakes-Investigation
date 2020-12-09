@@ -116,6 +116,12 @@ Complete the dealer analysis.
 
     * Preview the schedule to view the format and to understand how the data is separated.
     
+![Dealer schedule Blackjack](./Player_Dealer_Correlation/Player_Dealer_Correlation/0310_Dealer_schedule)
+
+![Dealer schedule 2](./Player_Dealer_Correlation/Player_Dealer_Correlation/0312_Dealer_schedule)
+
+![Dealer schedule 3](./Player_Dealer_Correlation/Player_Dealer_Correlation/0315_Dealer_schedule)
+    
 3.  Using your findings from the player analysis, create a separate script to look at each day and time that you determined losses occurred. Use awk, pipes, and grep to isolate out the following four fields:
 
 
