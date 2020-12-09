@@ -35,8 +35,11 @@ Your first task is to set up directories to prepare for your investigation.
   `cd Lucky_Duck_Investigations; mkdir Roulette_Loss_Investigation`
 
   3.  In Roulette_Loss_Investigation, create the following directories:
+  
     i.  Player_Analysis to investigate the casino player.
+    
     ii. Dealer_Analysis to investigate the dealers.
+    
     iii.Player_Dealer_Correlation to summarize your findings of the collusion.
     
    `cd Roulette_Loss_Investigation; mkdir Player_Analysis; mkdir Dealer_Analysis; mkdir Player_Dealer_Correlation`
@@ -61,9 +64,10 @@ Your next task is to move evidence from the specific days that Lucky Duck experi
 
   2.  After running this command your current directory should have the following subdirectories:
 
-
     i.   Dealer_Schedules_0310: Contains the dealer schedules.
+    
     ii.  Lucky_Duck_Investigations: Contains the investigation directories and notes files you created.
+    
     iii. Roulette_Player_WinLoss_0310: Contains the data for player wins and losses.
 
   3.  The Dealer_Schedules_0310 and Roulette_Player_WinLoss_0310 directories contain the dealer schedules and win/loss player data from the roulette tables during the week of March 10.
