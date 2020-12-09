@@ -216,6 +216,8 @@ Complete the dealer analysis.
 
 
     * How many times the dealer worked when major losses occurred.
+    
+  ![Dealer Analysis](Player_Dealer_Correlation/Player_Dealer_Correlation/Notes_Dealer_Analysis)
 
 
 7.  Complete the player/employee correlation.
