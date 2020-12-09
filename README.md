@@ -223,11 +223,11 @@ Complete the dealer analysis.
 7.  Complete the player/employee correlation.
 
 
-    * In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.
+  * In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.
     
   `cd ../Player_Dealer_Correlation`
 
-    * Make sure to document your specific reasons for this finding.
+  * Make sure to document your specific reasons for this finding.
     
   ![Summary of findings](Player_Dealer_Correlation/Player_Dealer_Correlation/Notes_Player_Dealer_Correlation)
 
