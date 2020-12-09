@@ -27,6 +27,8 @@ After your investigation, you will provide a summary of your findings to the cas
 ## Step 1: Investigation Preparation
 Your first task is to set up directories to prepare for your investigation.
   1.  Begin by making a single directory titled Lucky_Duck_Investigations.
+  
+  `mkdir Lucky_Duck_Investigation`
 
   2.  In this directory, create a directory for this specific investigation titled Roulette_Loss_Investigation.
 
