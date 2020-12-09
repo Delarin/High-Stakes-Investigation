@@ -116,7 +116,7 @@ Complete the dealer analysis.
 
     * Preview the schedule to view the format and to understand how the data is separated.
     
-![Dealer schedule Blackjack](./Player_Dealer_Correlation/Player_Dealer_Correlation/0310_Dealer_schedule)
+![Dealer schedule 1](./Player_Dealer_Correlation/Player_Dealer_Correlation/0310_Dealer_schedule)
 
 ![Dealer schedule 2](./Player_Dealer_Correlation/Player_Dealer_Correlation/0312_Dealer_schedule)
 
