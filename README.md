@@ -181,6 +181,30 @@ Complete the dealer analysis.
 
 `./march_10_11PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
 
+`./march_10_2PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_10_5AM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_10_8AM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_10_8PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_12_11PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_12_2PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_12_5AM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_12_8AM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_12_8PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_15_2PM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_15_5AM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
+`./march_15_8AM_Roulette_Dealer.sh >> Dealears_working_during_losses`
+
 
 6.  Preview your file Dealers_working_during_losses and analyze the data.
 
