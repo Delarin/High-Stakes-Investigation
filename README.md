@@ -114,6 +114,7 @@ Complete the dealer analysis.
 
 1.  Navigate to the Dealer_Analysis directory.
 
+ `cd ../Dealer_Analysis`
 
 2.  This file contains the dealer schedules for the various Lucky Duck casino games: Blackjack, Roulette, and Texas Hold 'Em.
 
