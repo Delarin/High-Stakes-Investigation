@@ -145,10 +145,10 @@ Complete the dealer analysis.
 7.  Complete the player/employee correlation.
 
 
-  . In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.
+    i. In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.
 
 
-  . Make sure to document your specific reasons for this finding.
+    ii. Make sure to document your specific reasons for this finding.
 
 
 ## Step 4: Scripting Your Tasks
@@ -163,9 +163,9 @@ Complete the following tasks:
   ### Hint: You will be using a script similar to the one you created for the dealer analysis step, but you will not output the results into a file.
 
 
-    . Design the shell script to accept the following two arguments:
-      . One for the date (four digits)
-      . One for the time
+    i. Design the shell script to accept the following two arguments:
+         One for the date (four digits)
+         One for the time
 
 2.  Note: The argument should be able to accept a.m. or p.m.
 
