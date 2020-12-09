@@ -137,6 +137,8 @@ Complete the dealer analysis.
 
 ![script to determine roulette dealer on march-10:11pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_10_11PM_Roulette_Dealer.sh)
 
+![script to determine roulette dealer on march-10:2pm](Player_Dealer_Correlation/Player_Dealer_Correlation/march_10_2PM_Roulette_Dealer.sh)
+
 
 #### Hint: You will have many scripts, but only a small change is required for each script.
 
