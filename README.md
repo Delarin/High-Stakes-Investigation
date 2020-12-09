@@ -223,11 +223,11 @@ Complete the dealer analysis.
 7.  Complete the player/employee correlation.
 
 
-    i. In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.
+    * In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.
     
   `cd ../Player_Dealer_Correlation`
 
-    ii. Make sure to document your specific reasons for this finding.
+    * Make sure to document your specific reasons for this finding.
     
   ![Summary of findings](Player_Dealer_Correlation/Player_Dealer_Correlation/Notes_Player_Dealer_Correlation)
 
@@ -252,4 +252,15 @@ Complete the following tasks:
 ![script for roulette dealer finder by time](Player_Dealer_Correlation/Player_Dealer_Correlation/roulette_dealer_finder_by_time.sh)
 
 3.  Test your script on the schedules to confirm it outputs the correct dealer at the time specified.
+
+
+
+## Bonus
+* In case there is future fraud on the other Lucky Duck games, create a shell script called roulette_dealer_finder_by_time_and_game.sh that has the three following arguments:
+
+  * Specific time
+  * Specific date
+  * Casino game being played
+Hint: The argument does not need to name the specific casino game.
+
 
