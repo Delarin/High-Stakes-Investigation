@@ -92,6 +92,7 @@ Complete the player analysis.
 
 3.  Place those results in a file called Roulette_Losses.
 
+![Roulette Loss](./Player_Dealer_Correlation/Player_Dealer_Correlation/Roulette_Losses)
 
 4. Preview the file Roulette_Losses and analyze the data.
 
