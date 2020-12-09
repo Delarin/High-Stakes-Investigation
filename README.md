@@ -39,12 +39,14 @@ Your first task is to set up directories to prepare for your investigation.
     ii. Dealer_Analysis to investigate the dealers.
     iii.Player_Dealer_Correlation to summarize your findings of the collusion.
     
-    `cd Roulette_Loss_Investigation; mkdir Player_Analysis; mkdir Dealer_Analysis; mkdir Player_Dealer_Correlation`
+   `cd Roulette_Loss_Investigation; mkdir Player_Analysis; mkdir Dealer_Analysis; mkdir Player_Dealer_Correlation`
 
   4.  Create empty files called Notes_<Directory Name> under each subdirectory to store investigation notes.
   
    `cd Player_Analysis; touch Notes_Player_Analysis`
+   
    `cd ../Dealer_Analysis; touch Notes_Dealer_Analysis`
+   
    `cd ../Player_Dealer_Correlation; touch Notes_Player_Dealer_Correlation`
 
 
